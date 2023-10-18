@@ -1,2 +1,2 @@
 # data-visualization-challenge
-Observations of different treatments for mice with tumors with visualizations.
+Observations of different treatments for mice with tumors with visualizations and analysis.
